@@ -1,0 +1,117 @@
+body {
+    background-image: url(Fondos/fondoBosque.jpg);
+}
+
+#div1{
+    display: inline;
+    margin: 0%;
+    /*top: 10px; */
+    padding: 40px;
+    width: 100%; 
+
+}
+#img1{
+    width: 1250px;
+}
+#img2{
+    width: 350px;
+}
+
+}
+#tb{
+    border-radius: 2px;
+    width: 400px;
+    height: 200px;
+    font-style: inherit;
+    font-size: 125%;
+}
+
+
+/* #div3{
+    position: relative;
+    top: 250px;
+} */
+
+.div2 {
+    padding: 10px;
+  margin: 50px;
+    display: inline;
+    flex-wrap: wrap;
+}
+
+.div2 img {
+    border-radius: 20px;
+    width: 100px;
+}
+
+.div2 p{
+    color: white;
+    font-weight: bold;
+}
+
+.pie {
+    display: flex;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.tr {
+    margin: 20px;
+    padding: 20px;
+}
+
+.td {
+    margin: 20px;
+    padding: 20px;
+}
+
+.maderas {
+    color: white;
+    font-weight: bold;
+}
+
+.titulo {
+    color: white;
+   width: 100%;
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+   margin: 30px;
+   font-size: 30px;
+}
+
+.precio {
+    color: white;
+    font-weight: bold;
+}
+
+.volver {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.fondo {
+    width: 100%;
+    background-image: url(gif/leñador.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondo img {
+    margin: 40px;
+    padding: 40px;
+}
+
+.num {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#tb form{
+    padding: 20px;
+    margin: 20px;
+}
