@@ -79,6 +79,7 @@ body {
    font-style: italic;
    margin: 30px;
    font-size: 30px;
+    text-shadow: #fff 0 0 10px;
 }
 
 .precio {
